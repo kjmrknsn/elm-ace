@@ -1,7 +1,7 @@
 {
     "version": "2.4.0",
     "summary": "Ace editor component",
-    "repository": "https://github.com/DenisKolodin/elm-ace.git",
+    "repository": "https://github.com/kjmrknsn/elm-ace.git",
     "license": "BSD3",
     "source-directories": [
         "src"
